@@ -4,7 +4,7 @@ Projeto feito utilizando o framework Angular
 
 ## Mural de criação de pensamentos.
 
-[image](https://user-images.githubusercontent.com/106892141/206542994-02efa3f9-d2c4-4fc9-92ea-7b74f2e0ae91.png)
+![image](https://user-images.githubusercontent.com/106892141/206542994-02efa3f9-d2c4-4fc9-92ea-7b74f2e0ae91.png)
 
 ## Mural
 
